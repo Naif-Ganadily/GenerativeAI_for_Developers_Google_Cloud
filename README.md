@@ -41,6 +41,10 @@
 - **Scenario**: Role-play as a marketing analyst for real estate, focusing on creating prompts for summarizing extensive home descriptions.
 - **Components**: Hands-on Lab.
 
+### Bonus Lab. GenerativeAI for Video Analytics with Vertex AI
+- Successfully completed the lab, gaining hands-on experience with LangChain applications for processing and analyzing video content through natural language tasks.
+- Explored the documentation for Generative AI on Vertex AI and the Google Cloud Tech YouTube channel for further learning.
+- Considered pursuing Google Cloud training and certification to deepen understanding of cloud technologies and applications in natural language processing.
 
 ![](path-to-badge-images)
 
