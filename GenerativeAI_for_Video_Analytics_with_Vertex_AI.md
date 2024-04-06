@@ -1,4 +1,4 @@
-[Link to the Notebook](notebooks\youtube_analysis.ipynb)
+[Link to the Notebook](notebooks\youtube_analysis.ipynb) <br>
 [Link to the Google Cloud Lab]()
 # Notebook review
 
